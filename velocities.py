@@ -18,3 +18,4 @@ vc = 0.9*vmax
 print('Velocidade de cruzeiro =', vc)
 vd = 1.25*vmax
 print('Velocidade de mergulho =', vd)
+divergenceSpeed = 3 * vmax
