@@ -5,6 +5,6 @@ Feel free to change it
 
 ## Contributors
 
-[Cassiano Montibeller](https://github.com/CassianoMontibeller)
-[Joao Foes](https://github.com/joaofoes)
-[Rafael Araujo Lehmkuhl](https://github.com/rafaellehmkuhl)
+- [Cassiano Montibeller](https://github.com/CassianoMontibeller)
+- [Joao Foes](https://github.com/joaofoes)
+- [Rafael Araujo Lehmkuhl](https://github.com/rafaellehmkuhl)
